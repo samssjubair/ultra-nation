@@ -1,0 +1,141 @@
+[{
+  "id": 1,
+  "first_name": "Sigfried",
+  "last_name": "Jordison",
+  "email": "sjordison0@amazon.de",
+  "gender": "Bigender",
+  "job": "Administrative Assistant IV"
+}, {
+  "id": 2,
+  "first_name": "Findlay",
+  "last_name": "Alliott",
+  "email": "falliott1@gravatar.com",
+  "gender": "Female",
+  "job": "Human Resources Assistant IV"
+}, {
+  "id": 3,
+  "first_name": "Clare",
+  "last_name": "Glanvill",
+  "email": "cglanvill2@so-net.ne.jp",
+  "gender": "Agender",
+  "job": "Sales Associate"
+}, {
+  "id": 4,
+  "first_name": "Madelyn",
+  "last_name": "Antalffy",
+  "email": "mantalffy3@princeton.edu",
+  "gender": "Non-binary",
+  "job": "Technical Writer"
+}, {
+  "id": 5,
+  "first_name": "Benny",
+  "last_name": "Ebi",
+  "email": "bebi4@sciencedaily.com",
+  "gender": "Female",
+  "job": "Product Engineer"
+}, {
+  "id": 6,
+  "first_name": "Alix",
+  "last_name": "Lympany",
+  "email": "alympany5@github.io",
+  "gender": "Male",
+  "job": "Design Engineer"
+}, {
+  "id": 7,
+  "first_name": "Brana",
+  "last_name": "Edgerley",
+  "email": "bedgerley6@irs.gov",
+  "gender": "Genderqueer",
+  "job": "Account Coordinator"
+}, {
+  "id": 8,
+  "first_name": "Marcus",
+  "last_name": "Van der Linde",
+  "email": "mvanderlinde7@virginia.edu",
+  "gender": "Male",
+  "job": "Health Coach IV"
+}, {
+  "id": 9,
+  "first_name": "Leanora",
+  "last_name": "Merredy",
+  "email": "lmerredy8@squarespace.com",
+  "gender": "Genderfluid",
+  "job": "Editor"
+}, {
+  "id": 10,
+  "first_name": "Kendra",
+  "last_name": "Petruszka",
+  "email": "kpetruszka9@pinterest.com",
+  "gender": "Bigender",
+  "job": "Software Test Engineer III"
+}, {
+  "id": 11,
+  "first_name": "Mateo",
+  "last_name": "Shrimplin",
+  "email": "mshrimplina@free.fr",
+  "gender": "Genderfluid",
+  "job": "Sales Representative"
+}, {
+  "id": 12,
+  "first_name": "Gweneth",
+  "last_name": "Twinberrow",
+  "email": "gtwinberrowb@census.gov",
+  "gender": "Male",
+  "job": "Technical Writer"
+}, {
+  "id": 13,
+  "first_name": "Katharyn",
+  "last_name": "Cradock",
+  "email": "kcradockc@dell.com",
+  "gender": "Genderqueer",
+  "job": "Research Nurse"
+}, {
+  "id": 14,
+  "first_name": "Josy",
+  "last_name": "Burgill",
+  "email": "jburgilld@theatlantic.com",
+  "gender": "Bigender",
+  "job": "Senior Cost Accountant"
+}, {
+  "id": 15,
+  "first_name": "Bear",
+  "last_name": "Dozdill",
+  "email": "bdozdille@mlb.com",
+  "gender": "Genderqueer",
+  "job": "Food Chemist"
+}, {
+  "id": 16,
+  "first_name": "Sidonia",
+  "last_name": "Kaes",
+  "email": "skaesf@youtu.be",
+  "gender": "Female",
+  "job": "Accounting Assistant III"
+}, {
+  "id": 17,
+  "first_name": "Connie",
+  "last_name": "Cathrall",
+  "email": "ccathrallg@independent.co.uk",
+  "gender": "Female",
+  "job": "Food Chemist"
+}, {
+  "id": 18,
+  "first_name": "Herman",
+  "last_name": "Liell",
+  "email": "hliellh@yahoo.com",
+  "gender": "Bigender",
+  "job": "Help Desk Technician"
+}, {
+  "id": 19,
+  "first_name": "Elberta",
+  "last_name": "Sergean",
+  "email": "esergeani@google.ru",
+  "gender": "Non-binary",
+  "job": "Environmental Specialist"
+}, {
+  "id": 20,
+  "first_name": "Meredeth",
+  "last_name": "Moseby",
+  "email": "mmosebyj@icq.com",
+  "gender": "Male",
+  "job": "Research Associate"
+}]
